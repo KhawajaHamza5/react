@@ -1,0 +1,14 @@
+nav{
+    display: flex;
+   
+
+    background-color: blue;
+}
+ul{
+gap:100px;
+justify-content: space-between;
+display: flex;
+}
+li{
+    list-style-type: none;
+}
